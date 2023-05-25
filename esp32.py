@@ -4,8 +4,8 @@ import network
 import urequests
 import utime
 # Configurando o acesso a internet
-WIFI_SSID = 'CLARO_2GAC95AB'
-WIFI_PASSWORD = 'B8AC95AB'
+WIFI_SSID = 'XXXXXX'
+WIFI_PASSWORD = 'XXXXXX'
 # Definindo a key da api
 TS_API_KEY = 'P2GUINXUBFW5BK96'
 # Definindo qual é o pino em que o sensor está conectado
